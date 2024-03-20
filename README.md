@@ -9,7 +9,7 @@ In this project we will address the possible champion of the Qatar 2022 World Cu
 - 🏄 Data collection.
 - 🌱 Data cleaning and preparation.
 - 👯 Data exploration.
-- 💬 AFeature Engineering.
+- 💬 Feature Engineering.
 - 🔭 Model creation
 - 😄 Model Evaluation & Deployment
 
