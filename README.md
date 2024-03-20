@@ -1,9 +1,11 @@
-# Hello friends 🖐️
-
+# Hello friends 🖐️ 
 
 In this project we will address the possible champion of the Qatar 2022 World Cup through data analysis.
 
 ## 🧐 We will use the following techniques:
+
+<img align='right' src="https://modahoy.org/wp-content/uploads/2022/11/febea0ca6103f8f360cc78714cba22e1.gif" width="200">
+
 - 🏄 Data collection.
 - 🌱 Data cleaning and preparation.
 - 👯 Data exploration.
